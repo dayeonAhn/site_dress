@@ -1,0 +1,393 @@
+body {
+    
+    padding: 0px;
+    margin: 0px;
+
+    width: 1540px;
+        font-family: "나눔고딕";
+        font-weight: 400;
+        font-style: normal;
+      
+      
+ }
+/* 
+ * {
+    box-sizing: border-box;
+  } */
+
+
+
+ .mainimgbg {
+    width: 600px;
+    
+    /* height: 125px; */
+    background-color: #ffffff;
+    /* display: inline-block; */
+    overflow : hidden;
+    float: left;
+    margin-left: 200px;
+
+    
+
+    
+}
+
+
+.texts {
+    font-size: 11pt;
+    
+    height: 35px;
+    background-color: #ffffff;
+    margin-right: 5px;
+    
+    
+     
+}
+.texts2 {
+    
+    background-color: #ffffff;
+    height: 35px;
+    font-size: 10pt;
+    
+   
+    
+    
+    
+}
+.btn1 {
+    margin-top:20px;
+    font-size: 11pt;
+    background-color: rgb(75, 75, 75);
+    color: white;
+    width: 190px;
+    height: 50px;
+    border-style: none;
+    font-weight: bold;
+    border-width:thin;
+    border-style: solid;
+    border-color: rgb(118, 118, 118);
+    border-radius:2px 2px 2px 2px;
+    margin-bottom:10px;
+    cursor: pointer;
+}
+.btn2 {
+    font-size: 11pt;
+    background-color: rgb(255, 255, 255);
+    color: rgb(124, 124, 124);
+    width: 190px;
+    height: 50px;
+    margin: 3px;
+    border-width:thin;
+    border-style: solid;
+    border-color: rgb(190, 190, 190);
+    border-radius:2px 2px 2px 2px;
+    cursor: pointer;
+}
+.btn3 {
+    font-size: 11pt;
+    background-color: rgb(255, 255, 255);
+    color: rgb(102, 102, 102);
+    width: 190px;
+    height: 50px;
+    border-width:thin;
+    border-style: solid;
+    border-color: rgb(190, 190, 190);
+    border-radius:2px 2px 2px 2px;
+    cursor: pointer;
+   
+}
+
+.btn4 {
+    font-size: 10pt;
+    background-color: rgb(0, 211, 46);
+    color: rgb(0, 0, 0);
+    width: 160px;
+    height: 40px;
+    border-width:thin;
+    border-style: solid;
+    border-color: rgb(159, 159, 159);
+    border-radius:2px 2px 2px 2px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top:10px;
+    padding: 3px;
+}
+
+.btn5 {
+    font-size: 10pt;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 40px;
+    height: 40px;
+    border-width:thin;
+    border-style: solid;
+    border-color: rgb(159, 159, 159);
+    border-radius:2px 2px 2px 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn7 {
+    margin:-7px;
+    margin-top: 150px;
+    font-size: 9pt;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 280px;
+    height: 35px;
+    border-width:thin;
+    border-color: rgb(202, 202, 202);
+    border-radius:2px 2px 2px 2px;
+    margin-left:100px;
+    border-bottom-style:none;
+    cursor: pointer;
+}
+
+.btn8 {
+    margin:-7px;
+    font-size: 9pt;
+    background-color: rgb(235, 235, 235);
+    color: rgb(0, 0, 0);
+    width: 280px;
+    height: 35px;
+    border-width:thin;
+    border-style: solid;
+    border-color: rgb(202, 202, 202);
+    border-radius:2px 2px 2px 2px;
+    cursor: pointer;
+}
+
+.btn9 {
+    margin:-7px;
+    font-size: 9pt;
+    background-color: rgb(235, 235, 235);
+    color: rgb(0, 0, 0);
+    width: 280px;
+    height: 35px;
+    border-width:thin;
+    border-style: solid;
+    border-color: rgb(202, 202, 202);
+    border-radius:2px 2px 2px 2px;
+    cursor: pointer;
+}
+
+.btn10 {
+    margin:-7px;
+    font-size: 9pt;
+    background-color: rgb(235, 235, 235);
+    color: rgb(0, 0, 0);
+    width: 280px;
+    height: 35px;
+    border-width:thin;
+    border-style: solid;
+    border-color: rgb(202, 202, 202);
+    border-radius:2px 2px 2px 2px;
+    cursor: pointer;
+}
+.btn11 {
+    margin:-7px;
+    font-size: 9pt;
+    background-color: rgb(235, 235, 235);
+    color: rgb(0, 0, 0);
+    width: 280px;
+    height: 35px;
+    border-width:thin;
+    border-style: solid;
+    border-color: rgb(202, 202, 202);
+    border-radius:2px 2px 2px 2px;
+    cursor: pointer;
+}
+.btn12 {
+    margin:-7px;
+    font-size: 9pt;
+    background-color: rgb(235, 235, 235);
+    color: rgb(0, 0, 0);
+    width: 280px;
+    height: 35px;
+    border-width:thin;
+    border-style: solid;
+    border-color: rgb(202, 202, 202);
+    border-radius:2px 2px 2px 2px;
+    cursor: pointer;
+    margin-left:100px;
+}
+
+.btn13 {
+    margin:-7px;
+    margin-top: 150px;
+    font-size: 9pt;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 280px;
+    height: 35px;
+    border-width:thin;
+    border-color: rgb(202, 202, 202);
+    border-radius:2px 2px 2px 2px;
+    border-bottom-style:none;
+    cursor: pointer;
+}
+.num {
+    font-size: 9pt;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
+
+.sel{
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:#5d5d5d;
+    margin-left: 50px;
+}
+
+.op {
+    color:red;
+    font-size: 9pt;
+}
+
+.all2{
+    width:600px;
+    float:right;
+    margin-right:100px;
+    position:relative;
+}
+
+.price{
+    height: 20px;
+    font-size: 9pt;
+    font-weight: bold;
+    word-spacing: 42pt;
+    margin-top: 20px;
+
+}
+
+.price2{
+    height: 20px;
+    font-size: 9pt;
+    word-spacing: 15pt;
+    margin-bottom: 10px;
+   
+    
+}
+
+.price3{
+    height: 20px;
+    font-size: 9pt;
+
+}
+
+.hr1{
+        border: 0;
+        height: 0.2px;
+        background: #d9d9d9;
+}
+
+.hr2{
+    border: 0;
+    height: 0.2px;
+    background: #d9d9d9;
+}
+.hr3{
+    border: 0;
+    height: 0.2px;
+    background: #d9d9d9;
+}
+
+.hr5{
+    border: 0;
+    height: 0.2px;
+    background: #d9d9d9;
+}
+
+.hr6{
+    margin-top:10px;
+    border: 0;
+    height: 2px;
+    background: #000000;
+    width: 310px;
+    margin-right: 300px;
+    float:left;
+}
+
+.hr7{
+
+    border: 0;
+    height: 0.2px;
+    background: #d9d9d9;
+    width: 310px;
+    float:left;
+    margin-right: 300px;
+}
+.hr8{
+    margin-left:100px;
+    border: 0;
+    height: 0.2px;
+    background: #c3c3c3;
+    width: 1370px;
+    float:left;
+    margin-right: 300px;
+}
+.money{
+    font-family: "굴림체";
+    font-size: 11px;
+    word-spacing: 1pt;
+   
+}
+
+.money1-1 {
+    color:rgb(0, 189, 53);
+}
+.subimg {
+    float:left;
+    
+      }
+
+.subimg2 {
+    text-align: center;
+      }
+
+
+.detail{
+    font-family: "Noto Sans KR", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    width:500px;
+    height: 700px;
+}
+
+.subimg3 {
+    text-align: center;
+      }
+
+.buttons{
+    float:left;
+    margin-bottom:20px;
+    letter-spacing: 2pt;
+
+
+      }
+
+#guide{
+   
+    margin-left:100px;
+    font-size: 18px;
+    font-weight: bold;
+      }
+
+#guide2{
+    margin-left:20px;
+    font-size: 13px;
+    color:#5d5d5d
+    }
+
+    #guide3{
+        margin-left:20px;
+        font-size: 15px;
+        color:#5d5d5d;
+        margin-left:100px;
+        }
+          
